@@ -95,6 +95,17 @@ section {
   text-decoration: underline;
 }
 
+.logic-tile {
+  background-color: #2d2d2d;
+  border-left: 5px solid #007acc;
+  color: #fff;
+  transition: transform 0.2s ease;
+}
+
+.logic-tile a {
+  color: #ce9178;
+  font-weight: bold;
+
 #profile-link {
   display: inline-block;
   margin-top: 15px;
@@ -127,4 +138,5 @@ section {
     width: 200px;
     height: 200px;
   }
+
 }
