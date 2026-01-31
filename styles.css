@@ -97,7 +97,7 @@ section {
 
 .logic-tile {
   background-color: #2d2d2d;
-  border-left: 5px solid #007acc;
+  border-left: 5px solid darkred;
   color: #fff;
   transition: transform 0.2s ease;
 }
@@ -140,3 +140,4 @@ section {
   }
 
 }
+
