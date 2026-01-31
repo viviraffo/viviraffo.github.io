@@ -1,35 +1,39 @@
 # 👩‍💻 Vivien | Junior Software Entwicklerin
 
-Willkommen auf meinem Portfolio! Ich bin eine leidenschaftliche Entwicklerin mit fundierter Praxiserfahrung in der Softwareentwicklung im .NET-Umfeld und einem starken Auge für modernes Webdesign.
+Willkommen auf meinem Portfolio! Ich bin eine lösungsorientierte Entwicklerin mit fundierter Praxiserfahrung im **C#/.NET-Umfeld** und der Fähigkeit, komplexe Logik in moderne, interaktive Web-Anwendungen zu übersetzen.
 
 ## 🚀 Über mich
-Ich habe ein **einjähriges Praktikum als Junior Software Entwicklerin** absolviert, bei dem ich mich intensiv auf die Entwicklung robuster Backend-Logik mit **C# und .NET** konzentriert habe. Aktuell vertiefe ich meine Kenntnisse im Frontend (JavaScript) und bereite mich auf die Erweiterung meines Stacks um **Python** vor.
+Nach meinem **einjährigen Praktikum als Junior Software Entwicklerin**, in dem ich mich auf robuste Backend-Logik konzentriert habe, habe ich meinen Tech-Stack erfolgreich auf das **moderne Frontend (JavaScript ES6+)** ausgeweitet. Ich verbinde die Disziplin der Softwareentwicklung mit der Kreativität des Webdesigns.
 
 - 💼 **Praxiserfahrung:** 1 Jahr Junior Software Entwicklung (C# / .NET)
-- 🛠️ **Arbeitsumgebung:** Visual Studio, Git, GitHub
-- 🎯 **Fokus:** Clean Code, logische Problemlösung & Responsive Webdesign
+- ⚙️ **JavaScript-Expertise:** Asynchrone Programmierung (APIs), RegEx und moderne Datenstrukturen (Maps/Sets).
+- 🎯 **Fokus:** Clean Code, Performance-Optimierung & Responsive Webdesign.
 
 ## 🛠️ Tech Stack
-- **Languages:** C#, JavaScript, HTML5, CSS3
-- **Frameworks & Tools:** .NET, Visual Studio
-- **In Learn-Phase:** Python 🐍
+- **Languages:** C#, JavaScript (ES6+), HTML5, CSS3
+- **Tools & Workflow:** .NET, Visual Studio, Git/GitHub, REST APIs
+- **In Learn-Phase:** Python 🐍 (Automatisierung & Data)
 
 ## 📂 Projekt-Highlights
 
-### [Web-Portfolio (Live)](https://viviraffo.github.io/)
-Mein zentrales Hub, das meine Fähigkeiten in CSS Grid, Flexbox und Responsive Design demonstriert.
+### [🌍 Web-Portfolio (Live)](https://viviraffo.github.io/)
+Mein interaktiver Hub, der mein gesamtes Spektrum von UI-Design bis hin zu komplexer JS-Logik zeigt.
 
-### [C# & .NET Logik-Projekte]
+### [⚡ JavaScript & API-Lösungen]
+- **Weather Dashboard:** Full-featured App mit Echtzeit-Wetterdaten via **Fetch API** und asynchroner Logik.
+- **Markdown Converter:** Performance-orientierter Live-Editor basierend auf **Regular Expressions**.
+- **Unique Voting System:** Logik-Demo zur Datenintegrität unter Nutzung von **ES6 Maps & Sets**.
+
+### [💻 C# & .NET Backend-Logik]
 - **Minispiel:** Fokus auf Zustandsverwaltung und OOP-Prinzipien.
 - **Dice Challenge:** Logikbasierte Berechnungen mit interaktivem Konsolen-Feedback.
 
-### [Frontend-Entwicklungen]
-- **Technical Documentation:** Komplexes Layout mit Sidebar-Navigation.
-- **Playing Cards:** Fortgeschrittenes CSS-Positioning.
-- **Contact Form & Newspaper:** Fokus auf UX, Validierung und Typografie.
+### [🎨 Frontend-Architektur]
+- **Technical Documentation:** Komplexes Layout mit Sidebar-Navigation und Responsive Breakpoints.
+- **UI Components:** Fortgeschrittene Layouts (Flexbox/Grid) wie Playing Cards und Newspaper-Designs.
 
 ## 📈 Ziele
-Nach meinem erfolgreichen Jahr in der C#-Entwicklung ist es mein Ziel, meine Full-Stack-Fähigkeiten weiter auszubauen, indem ich moderne JavaScript-Frameworks meistere und Python für Automatisierungsprozesse erschließe.
+Mein Ziel ist die Entwicklung von Full-Stack-Lösungen, die Backend-Stabilität mit intuitiven Frontends vereinen. Aktuell fokussiere ich mich darauf, meine JavaScript-Kenntnisse in Richtung moderner Frameworks zu skalieren und Python für Automatisierungsprozesse zu erschließen.
 
 ---
-📫 **Kontakt:** Schauen Sie sich gerne meine Repositories an oder kontaktieren Sie mich direkt über GitHub!
+📫 **Kontakt:** Schauen Sie sich gerne meine Repositories an – ich freue mich über fachlichen Austausch!
