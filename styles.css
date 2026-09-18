@@ -224,22 +224,22 @@ hr {
 
 @media screen and (max-width: 750px) {
   #navbar {
-    height: 50px;
-    padding: 0 8px;
-    gap: 6px;
-    justify-content: space-evenly;
+    flex-direction: column;
+    height: auto;
+    padding: 8px 10px;
+    gap: 4px;
   }
 
   #navbar a {
-    font-size: 0.82em;
-    padding: 6px 10px;
-    border-radius: 15px;
-    flex: 1 1 auto;
-    max-width: 120px;
+    font-size: 0.85em;
+    padding: 5px 12px;
+    border-radius: 12px;
+    width: 85%;
+    max-width: 250px;
   }
 
   #welcome-section {
-    padding-top: 70px;
+    padding-top: 140px;
     height: auto;
     padding-bottom: 50px;
   }
