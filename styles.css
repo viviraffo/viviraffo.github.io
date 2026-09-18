@@ -10,36 +10,45 @@ body {
 }
 
 #navbar {
-  background-color: darkred;
-  padding: 10px;
+  background-color: rgba(139, 0, 0, 0.95);
+  backdrop-filter: blur(8px);
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
-  min-height: 60px;
+  height: 60px;
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 15px;
   z-index: 1000;
-  flex-wrap: wrap;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+  padding: 0 20px;
 }
 
 #navbar a {
   text-decoration: none;
   color: white;
-  border: none;            
-  padding: 8px 15px;
-  margin: 5px;
-  transition: all 0.3s ease;
+  border: none;
+  font-size: 0.95em;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  padding: 8px 16px;
+  position: relative;
+  transition: all 0.25s ease-in-out;
+  border-radius: 20px;
   text-align: center;
-  flex: 0 0 160px;          
-  font-size: 0.9em;
-  border-radius: 4px;       
+  white-space: nowrap;
 }
 
 #navbar a:hover {
   background-color: white;
   color: darkred;
+  transform: translateY(-1px);
+}
+
+#navbar a:active {
+  transform: translateY(0);
 }
 
 #welcome-section {
@@ -168,9 +177,8 @@ hr {
 }
 
 @media screen and (min-width: 751px) {
-  #navbar {
-flex-direction: row; 
-    height: 60px;
+  #navbar a {
+    min-width: 130px;
   }
 
   h1 {
@@ -213,25 +221,28 @@ flex-direction: row;
     opacity: 0.8;
   }
 }
+
 @media screen and (max-width: 750px) {
   #navbar {
-    flex-direction: column; 
-    padding: 15px;
+    height: 50px;
+    padding: 0 8px;
+    gap: 6px;
+    justify-content: space-evenly;
   }
 
   #navbar a {
-    width: 90%; 
-    max-width: none;
-    margin: 5px 0;
+    font-size: 0.82em;
+    padding: 6px 10px;
+    border-radius: 15px;
+    flex: 1 1 auto;
+    max-width: 120px;
   }
 
   #welcome-section {
-
-    padding-top: 220px; 
-    height: auto; /* Auf Mobile besser auto statt 100vh, um Scrolling-Probleme zu vermeiden */
+    padding-top: 70px;
+    height: auto;
     padding-bottom: 50px;
   }
   
   h1 { font-size: 2.5em; }
 }
-
