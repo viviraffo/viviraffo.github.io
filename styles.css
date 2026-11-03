@@ -222,6 +222,20 @@ hr {
   }
 }
 
+.featured-tile {
+  border: 2px solid darkred !important;
+  background-color: rgba(139, 0, 0, 0.05) !important;
+}
+
+.featured-tile a {
+  background-color: darkred !important;
+  color: white !important;
+}
+
+.featured-tile a:hover {
+  background-color: #a00000 !important;
+}
+
 @media screen and (max-width: 750px) {
   #navbar {
     flex-direction: column;
